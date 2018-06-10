@@ -1,6 +1,10 @@
 # Realtime Chat App (Next.js & Pusher)
 
-This project contains the source code for a very simple realtime chat application with sentiment analysis. With sentiment analysis, we are able to detect the mood of a person based on the words they use in their chat messages. Here is a screenshot of the application.
+This project contains the source code for a very simple realtime chat application with sentiment analysis. With sentiment analysis, we are able to detect the mood of a person based on the words they use in their chat messages. 
+
+[View tutorial](https://pusher.com/tutorials/chat-sentiment-analysis-nextjs)
+
+Here is a screenshot of the application.
 
 ![Chat Screenshot](https://i.imgur.com/vROYgFJ.png)
 
