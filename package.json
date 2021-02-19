@@ -22,7 +22,6 @@
     "sentiment": "^5.0.0"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs": "^2.0.1",
-    "netlify": "6.1.9"
+
   }
 }
